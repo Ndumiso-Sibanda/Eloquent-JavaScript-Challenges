@@ -15,3 +15,12 @@ Flattening
 Use the reduce method in combination with the concat method to “flatten” an array of arrays into a single array that has all the elements of the input arrays.
 
 The solution for this chapter is on the solution5.js page/component
+
+
+Chapter 4: 
+Data Structures:
+Objects and Arrays
+The Sum of a Range
+
+Write a range function that takes two arguments, start and end, and returns an array containing all the numbers from start up to (and including) end.
+The solution for this chapter is on the solution 4.1.js page/component
