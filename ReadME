@@ -7,3 +7,11 @@ It takes x and y parameters (numbers), which it should save to properties of the
 Give the Vec prototype two methods, plus and minus, that take another vector as a parameter and return a new vector that has the sum or difference of the two vectors’ (the one in this and the parameter) x and y values.
 
 The solution for this chapter is on the solution6.js page/component
+
+Chapter 5: 
+Higher-order Functions
+Flattening
+
+Use the reduce method in combination with the concat method to “flatten” an array of arrays into a single array that has all the elements of the input arrays.
+
+The solution for this chapter is on the solution5.js page/component
