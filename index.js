@@ -10,5 +10,10 @@ class Vec {
  minus(other) {
      return new
       Vec(this.x - other.x, this.y - other.y);
-    }   
-}
+    }  
+    get length() {
+     return Math.
+      sqrt(this.x * this.x + this.y * this.y);
+      }
+    } 
+
