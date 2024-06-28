@@ -3,4 +3,7 @@ class Vec {
       this.x = x;
       this.y = y;
     }
+ plus(other) {
+    return new Vec(this.x + other.x, this.y + other.y);
+    }
 }
